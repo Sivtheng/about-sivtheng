@@ -13,10 +13,11 @@
   </script>
   
   <div class="flex flex-col items-center justify-center min-h-screen bg-[#31363F] text-[#EEEEEE] p-4">
-    <h1 class="text-4xl mb-4">/about-sivtheng</h1>
+    <h1 class="text-4xl mb-4 text-accent">/about-sivtheng</h1>
     <p class="text-xl mb-4">welcome to my page. you can learn more about me in about and stuff.</p>
+    <p class="text-xl mb-4">call: 015 548 340</p>
+    <p class="text-xl mb-4">email: sivtheng25@gmail.com</p>
     <p class="text-xl mb-4">or find my socials below</p>
-  
     <div class="flex gap-4 mt-4">
       <!-- Font Awesome icons for social media -->
       <a href={socialLinks.github} target="_blank" rel="noopener noreferrer" aria-label="GitHub" class="text-[#EEEEEE] hover:text-[#76ABAE] text-2xl">
