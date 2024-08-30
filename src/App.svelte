@@ -1,7 +1,7 @@
 <script>
-  import Index from './components/Index.svelte';
-  import AboutMe from './components/AboutMe.svelte';
-  import Stuff from './components/Stuff.svelte';
+  import Index from './components/index.svelte';
+  import AboutMe from './components/aboutme.svelte';
+  import Stuff from './components/stuff.svelte';
 
   let currentPage = 'index';
 
