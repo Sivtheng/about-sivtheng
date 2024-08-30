@@ -2,3 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+html[data-theme='dark'] {
+  --bg-primary: #0B2447;
+  --text-secondary: #A5D7E8;
+  --bg-highlight: #19376D;
+  --text-accent: #576CBC;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-secondary);
+  font-family: 'Fira Code', monospace; /* Adjust font if needed */
+}
+
+/* Ensure dark mode applies correctly */
+body[data-theme='dark'] {
+  background-color: var(--bg-primary);
+  color: var(--text-secondary);
+}
