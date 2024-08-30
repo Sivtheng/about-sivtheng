@@ -21,7 +21,7 @@
 <div class="container mx-auto p-8 bg-[#31363F] text-[#EEEEEE] text-left mb-16">
   <h1 class="text-4xl mb-4 text-accent">hello there!</h1>
   <p class="mb-4">my name is sivtheng chang, but you can also call me maxy and i am {age} years old. my pronoun is they/them but honestly i don't care if you still use he/him.</p>
-  <p class="mb-4">i am a yet-to-graduate cs senior at paragon-international-university and a self proclaim full-stack developer, currently working as a web developer at dynamo-tech-solutions</p>
+  <p class="mb-4">i am a yet-to-graduate cs senior at paragon-international-university and a self-proclaimed full-stack developer, currently working as a web developer at dynamo-tech-solutions</p>
   <p class="mb-4">my dream is to be happily unemployed. my hobbies are listening to music, execising while listening to music, watching movies and tv shows, slacking off at work, hanging out and doing fun stuff with friends, and being madly in love with that one person.</p>
 
   <h2 class="text-2xl mb-4 text-accent">work experience</h2>
