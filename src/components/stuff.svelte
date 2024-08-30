@@ -23,7 +23,7 @@
     </li>
     <li class="mb-4">
       <a href="https://github.com/Sivtheng/distributed-system-caching" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">redis-caching for distributed-system-class</a>
-      <div class="nested-info">> basic <span style="color: #F82C1E;">laravel</span> crud that showcase caching with <span style="color: #D6362A;">redis</span>.</div>
+      <div class="nested-info">> basic <span style="color: #F82C1E;">laravel</span> crud and <span style="color: #76ABAE;">golang</span> api that showcase caching with <span style="color: #D6362A;">redis</span>.</div>
       <div class="nested-info">> can't test, i forgot the commands.</div>
     </li>
     <li class="mb-4">
