@@ -11,12 +11,6 @@
 </script>
 
 <div class="dark min-h-screen bg-primary text-secondary font-vscode">
-  <nav class="p-4 flex justify-center space-x-6 bg-highlight text-accent">
-    <button class="hover:text-secondary" on:click={() => navigate('index')}>Home</button>
-    <button class="hover:text-secondary" on:click={() => navigate('about')}>About Me</button>
-    <button class="hover:text-secondary" on:click={() => navigate('stuff')}>Stuff</button>
-  </nav>
-
   <!-- Conditional Rendering -->
   {#if currentPage === 'index'}
     <Index />
@@ -25,4 +19,10 @@
   {:else if currentPage === 'stuff'}
     <Stuff />
   {/if}
+
+  <footer class="fixed bottom-0 left-0 w-full p-4 flex justify-center gap-8 bg-[#222831] text-[#76ABAE] text-4xl">
+    <button class="hover:text-[#EEEEEE]" on:click={() => navigate('index')}>home</button>
+    <button class="hover:text-[#EEEEEE]" on:click={() => navigate('about')}>about</button>
+    <button class="hover:text-[#EEEEEE]" on:click={() => navigate('stuff')}>stuff</button>
+  </footer>
 </div>
