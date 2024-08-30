@@ -1,14 +1,14 @@
 <script>
     // Social media links
     const socialLinks = {
-      github: 'https://github.com/yourusername',
-      twitter: 'https://twitter.com/yourusername',
-      facebook: 'https://facebook.com/yourusername',
-      instagram: 'https://instagram.com/yourusername',
-      telegram: 'https://t.me/yourusername',
-      reddit: 'https://reddit.com/user/yourusername',
-      spotify: 'https://open.spotify.com/user/yourusername',
-      linkedin: 'https://linkedin.com/in/yourusername'
+      github: 'https://github.com/Sivtheng',
+      twitter: 'https://twitter.com/svthngchng',
+      facebook: 'https://facebook.com/sivtheng24',
+      instagram: 'https://instagram.com/maxyjang',
+      telegram: 'https://t.me/maxyjang',
+      reddit: 'https://reddit.com/user/sivtheng',
+      spotify: 'https://open.spotify.com/user/313qjwth3hvxbcluazpcmzgh4xbq',
+      linkedin: 'https://linkedin.com/in/sivtheng-chang-52a013207'
     };
   </script>
   
