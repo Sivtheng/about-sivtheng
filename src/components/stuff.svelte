@@ -12,11 +12,10 @@
       <div class="nested-info">> deployed on vercel (free version).</div>
     </li>
     <li class="mb-4">
-      <a href="  https://github.com/SokvisalMong/pawgadoptioncenter" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">pawg-adoption-center</a>
-      <div class="nested-info">> webdev1 group project built with <span style="color: #5FD3F3;">reactjs</span> and deployed on vercel.</div>
-      <div class="nested-info">> Currently being built from the ground up as a full-stack webapp by me.</div>
-      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-frontend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Frontend</a></span> with <span style="color: #75D5D0;">Nextjs</span>.</div>
-      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-dashboard" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Dashboard</a></span> with <span style="color: #3D79A9;">Django</span>.</div>
+      <div>pawg-adoption-center</div>
+      <div class="nested-info">> webapp for pet adoption site called "pawg-adoption-center"</div>
+      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-frontend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Frontend</a></span> with <span style="color: #75D5D0;">Nextjs</span>and <span style="color: #36b7f0;">tailwindcss</span>.</div>
+      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-dashboard" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Dashboard</a></span> with <span style="color: #3D79A9;">Django</span> and <span style="color: #7210F5;">bootstraps</span>.</div>
       <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-backend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Backend</a></span> with <span style="color: #76ABAE;">Golang</span> and <span style="color: #31648D;">Postgresql</span>. </div>
     </li>
     <li class="mb-4">
