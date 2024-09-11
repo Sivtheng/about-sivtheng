@@ -12,11 +12,16 @@
       <div class="nested-info">> deployed on vercel (free version).</div>
     </li>
     <li class="mb-4">
+      <a href="https://github.com/Sivtheng/todo-sivtheng" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">simple todo-list app</a>
+      <div class="nested-info">> built with <span style="color: #3CBB86;">vue.js</span> and backend as a service with <span style="color: #FACD37;">firebase</span>.</div>
+      <div class="nested-info">> deployed with firebase hosting (free version).</div>
+    </li>
+    <li class="mb-4">
       <div>pawg-adoption-center</div>
       <div class="nested-info">> webapp for pet adoption site called "pawg-adoption-center"</div>
-      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-frontend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Frontend</a></span> with <span style="color: #75D5D0;">Nextjs</span>and <span style="color: #36b7f0;">tailwindcss</span>.</div>
-      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-dashboard" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Dashboard</a></span> with <span style="color: #3D79A9;">Django</span> and <span style="color: #7210F5;">bootstraps</span>.</div>
-      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-backend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">Backend</a></span> with <span style="color: #76ABAE;">Golang</span> and <span style="color: #31648D;">Postgresql</span>. </div>
+      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-frontend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">frontend</a></span> with <span style="color: #75D5D0;">nextjs</span> and <span style="color: #36b7f0;">tailwindcss</span>.</div>
+      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-dashboard" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">dashboard</a></span> with <span style="color: #3D79A9;">django</span> and <span style="color: #7210F5;">bootstraps</span>.</div>
+      <div class="nested-info">> <span><a href="https://github.com/Sivtheng/pawg-backend" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">backend</a></span> with <span style="color: #76ABAE;">golang</span> and <span style="color: #31648D;">postgresql</span>. </div>
     </li>
     <li class="mb-4">
       <a href="https://github.com/Sivtheng/expense-tracker-maxy" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">expense-tracker</a>
