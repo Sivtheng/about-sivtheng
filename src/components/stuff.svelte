@@ -12,6 +12,11 @@
       <div class="nested-info">> deployed on vercel (free version).</div>
     </li>
     <li class="mb-4">
+      <a href="https://github.com/Sivtheng/message-maxy" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">message-maxy</a>
+      <div class="nested-info">> built with <span style="color: #8A4BAF;">gatsby</span> and <span style="color: #FACD37;">firebase</span> backend as a service/deployment.</div>
+      <div class="nested-info">> message-maxy is a simple messaging app. it is for learning purpose on how to implement realtime messaging feature.</div>
+    </li>
+    <li class="mb-4">
       <a href="https://github.com/Sivtheng/mean-mailservices" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">mail services</a>
       <div class="nested-info">> built with mean (<span style="color: #55AD48;">mongodb</span>, <span style="color: #F3E02A;">expressjs</span>, <span style="color: #C51336;">angularjs</span>, <span style="color: #86CF35;">nodejs</span>) with <span style="color: #31D377;">mailtrap</span> and <span style="color: #E3139B;">graphql</span> as a <a href="/structure.png" target="_blank" rel="noopener noreferrer" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent">monolithic structure</a>.</div>
       <div class="nested-info">> the purpose of this project is practicing how to implement various mail services.</div>
