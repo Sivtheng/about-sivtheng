@@ -12,6 +12,11 @@
       <div class="nested-info">> deployed on vercel (free version).</div>
     </li>
     <li class="mb-4">
+      <a href="https://github.com/Sivtheng/reminder-bot" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">calendar-reminder-bot</a>
+      <div class="nested-info">> built with <span style="color: #3A71A0;">python</span> for telegram, with google calendar api</div>
+      <div class="nested-info">> deployed on railways (free version).</div>
+    </li>
+    <li class="mb-4">
       <a href="https://github.com/Sivtheng/message-maxy" class="text-[#EEEEEE] border-b border-accent hover:text-accent hover:border-b-accent" target="_blank" rel="noopener noreferrer">message-maxy</a>
       <div class="nested-info">> built with <span style="color: #8A4BAF;">gatsby</span> and <span style="color: #FACD37;">firebase</span> backend as a service/deployment.</div>
       <div class="nested-info">> message-maxy is a simple messaging app. it is for learning purpose on how to implement realtime messaging feature.</div>
